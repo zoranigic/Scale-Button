@@ -37,17 +37,15 @@ public class ScaleButton extends AppCompatButton {
 //    @Override
     public boolean onTouchEvent(MotionEvent event)
     {
-        if (event.getAction() == MotionEvent.ACTION_DOWN)
-        {
-            generateAnimation(1, 0.8f);
-            triggerNextAnimation();
+        if(this.isClickable()) {
+            if (event.getAction() == MotionEvent.ACTION_DOWN) {
+                generateAnimation(1, 0.8f);
+                triggerNextAnimation();
+            } else if (event.getAction() == MotionEvent.ACTION_CANCEL || event.getAction() == MotionEvent.ACTION_UP) {
+                generateAnimation(0.8f, 1);
+                triggerNextAnimation();
+            }
         }
-        else if (event.getAction() == MotionEvent.ACTION_CANCEL || event.getAction() == MotionEvent.ACTION_UP)
-        {
-            generateAnimation(0.8f, 1);
-            triggerNextAnimation();
-        }
-
         return super.onTouchEvent(event);
     }
 
