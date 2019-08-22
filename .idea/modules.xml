@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ScaleButtonExample.iml" filepath="$PROJECT_DIR$/ScaleButtonExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/scalebutton/scalebutton.iml" filepath="$PROJECT_DIR$/scalebutton/scalebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scaleimagebutton/scaleimagebutton.iml" filepath="$PROJECT_DIR$/scaleimagebutton/scaleimagebutton.iml" />
     </modules>
   </component>
 </project>
