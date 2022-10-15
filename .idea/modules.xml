@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScaleButtonExample.iml" filepath="$PROJECT_DIR$/ScaleButtonExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scalebutton/scalebutton.iml" filepath="$PROJECT_DIR$/scalebutton/scalebutton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scaleimagebutton/scaleimagebutton.iml" filepath="$PROJECT_DIR$/scaleimagebutton/scaleimagebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scale-Button.iml" filepath="$PROJECT_DIR$/.idea/modules/Scale-Button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scale-Button.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.iml" filepath="$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scalebutton/Scale-Button.scalebutton.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.iml" filepath="$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scaleimagebutton/Scale-Button.scaleimagebutton.unitTest.iml" />
     </modules>
   </component>
 </project>
